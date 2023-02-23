@@ -45,4 +45,3 @@ void times_table(void)
 			_putchar('0' + (val % 10));
 		}
 	}
-}

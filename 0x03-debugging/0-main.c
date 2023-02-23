@@ -2,6 +2,7 @@
 
 /**
  *main - Test function for positive or negative
+ *@i - checked
  *Return: 0
  */
 

@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+*main - prints a specific number 
+*
+*/
 int main()
 {
 	int n;

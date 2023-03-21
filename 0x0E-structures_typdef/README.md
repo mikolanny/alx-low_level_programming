@@ -1,3 +1,4 @@
-0x0E Structures & Typedef
+0x0E Structures and Typedef
 
-Understanding structures and typedef
+Understanding Typedef and structures
+

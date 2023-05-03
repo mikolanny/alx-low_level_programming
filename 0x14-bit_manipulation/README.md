@@ -1,3 +1,0 @@
-Bit Manipulation 
-
-Bitwise Operators
